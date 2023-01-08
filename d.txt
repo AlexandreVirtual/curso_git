@@ -1,0 +1,41 @@
+[33mcommit 8e2b13998891c361947ec5684f0cbf558a8120de[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: AlexandreVirtual <alexandrevirtual@hotmail.com>
+Date:   Sat Jan 7 22:08:32 2023 -0300
+
+    deletenado...
+
+[33mcommit 9f77897d511426fdf40d5959757e2755a71c04f0[m
+Author: AlexandreVirtual <alexandrevirtual@hotmail.com>
+Date:   Sat Jan 7 22:03:33 2023 -0300
+
+    enviando... b
+
+[33mcommit 73e2e36ab253890fdd47dd2f1bc8634024127aaa[m
+Author: Alexandre M. Camara <alexandrevirtual@hotmail.com>
+Date:   Fri Jan 6 16:39:50 2023 -0300
+
+    Update README.md
+
+[33mcommit 085eaf08d88ac3c982fd1716e346ecc4a7d2920f[m
+Author: Alexandre M. Camara <alexandrevirtual@hotmail.com>
+Date:   Fri Jan 6 16:38:07 2023 -0300
+
+    Create README.md
+
+[33mcommit 90e1bde0254509555f40e34bb563f7d33dfe26b5[m
+Author: Alexandre Martins Camara <alexandre.camara@arcadis.com>
+Date:   Fri Jan 6 16:31:08 2023 -0300
+
+    enviado todos os arquivo com o comando git commit -a -m
+
+[33mcommit 34ebc8961fd724631a88ea24b4f7be7baa98d409[m
+Author: Alexandre Martins Camara <alexandre.camara@arcadis.com>
+Date:   Fri Jan 6 16:29:02 2023 -0300
+
+    enviando arquivo a.txt
+
+[33mcommit 5a69c91931a307121573a1cd57435721a8b0b492[m
+Author: Alexandre Martins Camara <alexandre.camara@arcadis.com>
+Date:   Fri Jan 6 14:35:58 2023 -0300
+
+    primeiro commit
